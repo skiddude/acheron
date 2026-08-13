@@ -144,6 +144,7 @@ include(rnnoise.cmake)
 
 set(PROJECT_SOURCES
     resources.qrc
+    acheron.rc
     src/main.cpp
     src/Core/Snowflake.cpp
     src/Core/ClientInstance.cpp
